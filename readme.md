@@ -13,3 +13,4 @@
 - git add 文件名 把文件添加到暂存区
 - git commit -m 'xxx' 提交
 - git push -u origin master 提交到中央仓库
+Creating a new branch is quick & simple.
