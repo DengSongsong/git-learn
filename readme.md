@@ -7,7 +7,7 @@
 
 
 ## 基本指令
-- git log 查看历史提交记录
+- git log 查看历史提交记录 键盘英文状态下按字母q，退出git log
 - git status 随时查看工作目录的状态
 - git clone '地址' 下拉到本地
 - git add 文件名 把文件添加到暂存区
