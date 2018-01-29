@@ -6,3 +6,5 @@ webpack
 vue
 weex
 vuex
+git merge
+git branch
